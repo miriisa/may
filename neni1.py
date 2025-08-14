@@ -14,5 +14,6 @@ neni.sleep (3)
 neni.write ('Miriisa', interval=0.5)
 neni.press('TAB')
 neni.sleep (2)
-neni.write ('Heitor!maysa2')
+neni.write ()
 neni.press ('enter')
+
